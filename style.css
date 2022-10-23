@@ -1,0 +1,8 @@
+@import url(https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css);
+
+:root{
+    --pink:#fff9f5;
+    }
+
+.bpink{background-color:var(--pink);}
+.cpink{color:var(--pink);}
